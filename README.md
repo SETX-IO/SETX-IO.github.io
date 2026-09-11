@@ -13,5 +13,5 @@
 
 
 面数：10367  
-软件：MAY，Blander Cycles Renderer  
+软件：MAY，Blender Cycles Renderer  
 ![JoyTick](作品集/JoyTick.png)
